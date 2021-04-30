@@ -1,0 +1,22 @@
+programa {
+    
+    inteiro idade
+    inteiro idadeMeses
+    inteiro bissexto
+    inteiro idadeDias
+    inteiro idadeHoras
+    inteiro idadeMinutos
+    
+	funcao inicio() {
+	    escreva ("Quantos anos você tem? ")
+	    leia (idade)
+	    
+	    idadeMeses = idade * 12
+	    bissexto = idade / 4
+	    idadeDias = idade * 365 + bissexto
+	    idadeHoras = idadeDias * 24
+	    idadeMinutos = idadeHoras * 60
+	    
+	    escreva ("Você tem ", idadeMeses, " meses de idade\n",idadeDias, " dias\n",idadeHoras, " horas\n",idadeMinutos, " minutos")
+	}
+}

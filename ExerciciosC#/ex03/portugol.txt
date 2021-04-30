@@ -1,0 +1,16 @@
+programa {
+    real salario
+    
+	funcao inicio() {
+	    escreva ("Qual o salario? R$")
+	    leia (salario)
+	    
+	    se (salario < 500) {
+	        salario = salario * 1.3
+	        escreva ("O salario foi reajustado, passou a ser R$",salario)
+	    } senao {
+	        escreva ("O salario não sofreu reajuste, continuara sendo R$",salario)
+	    }
+	    
+	}
+}

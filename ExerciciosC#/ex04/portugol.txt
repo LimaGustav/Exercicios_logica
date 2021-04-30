@@ -1,0 +1,32 @@
+programa {
+    inteiro idade
+    
+	funcao inicio() {
+	    escreva("Qual a idade do nadador? ")
+	    leia (idade)
+	    
+	    se (idade < 5) {
+	        escreva ("Nadador muito novo, ainda não possui categoria.")
+	    }
+	    
+	    senao se (idade >= 5 && idade <= 7) {
+	        escreva ("Nadador pertence a categoria Infantil A.")
+	    }
+	    
+	    senao se (idade >= 8 && idade <= 10) {
+	        escreva ("Nadador pertence a categoria Infantil B.")
+	    }
+	    
+	    senao se (idade >= 11 && idade <= 13) {
+	        escreva ("Nadador pertence a categoria Juvenil A.")
+	    }
+	    
+	    senao se (idade >= 14 && idade <= 17) {
+	        escreva ("Nadador pertence a categoria Juvenil B.")
+	    }
+	    
+	    senao {
+	        escreva ("Nadador pertence a categoria Senior.")
+	    }
+	}
+}

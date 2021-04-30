@@ -1,0 +1,16 @@
+C:\Users\Jhonatan\Desktop\Back-End\ExerciciosC#\ex04\bin\Debug\net5.0\ex04.exe
+C:\Users\Jhonatan\Desktop\Back-End\ExerciciosC#\ex04\bin\Debug\net5.0\ex04.deps.json
+C:\Users\Jhonatan\Desktop\Back-End\ExerciciosC#\ex04\bin\Debug\net5.0\ex04.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\Back-End\ExerciciosC#\ex04\bin\Debug\net5.0\ex04.runtimeconfig.dev.json
+C:\Users\Jhonatan\Desktop\Back-End\ExerciciosC#\ex04\bin\Debug\net5.0\ex04.dll
+C:\Users\Jhonatan\Desktop\Back-End\ExerciciosC#\ex04\bin\Debug\net5.0\ref\ex04.dll
+C:\Users\Jhonatan\Desktop\Back-End\ExerciciosC#\ex04\bin\Debug\net5.0\ex04.pdb
+C:\Users\Jhonatan\Desktop\Back-End\ExerciciosC#\ex04\obj\Debug\net5.0\ex04.csprojAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\Back-End\ExerciciosC#\ex04\obj\Debug\net5.0\ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\Back-End\ExerciciosC#\ex04\obj\Debug\net5.0\ex04.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\Back-End\ExerciciosC#\ex04\obj\Debug\net5.0\ex04.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\Back-End\ExerciciosC#\ex04\obj\Debug\net5.0\ex04.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\Back-End\ExerciciosC#\ex04\obj\Debug\net5.0\ex04.dll
+C:\Users\Jhonatan\Desktop\Back-End\ExerciciosC#\ex04\obj\Debug\net5.0\ref\ex04.dll
+C:\Users\Jhonatan\Desktop\Back-End\ExerciciosC#\ex04\obj\Debug\net5.0\ex04.pdb
+C:\Users\Jhonatan\Desktop\Back-End\ExerciciosC#\ex04\obj\Debug\net5.0\ex04.genruntimeconfig.cache

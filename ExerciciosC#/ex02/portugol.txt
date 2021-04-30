@@ -1,0 +1,22 @@
+programa {
+    inclua biblioteca Calendario
+    inteiro anoNascimento
+    inteiro anoAtual
+    inteiro idade
+    inteiro idadeDias
+    inteiro idadeSemana
+    inteiro bissexto
+    
+	funcao inicio() {
+	    escreva ("Qual o ano de nascimento? ")
+	    leia (anoNascimento)
+	    anoAtual = Calendario.ano_atual()
+	    
+	    idade = anoAtual - anoNascimento
+	    bissexto = idade / 4
+	    idadeDias = idade * 365 + bissexto
+	    idadeSemana = idadeDias/7
+	    escreva ("Você tem ", idade, " anos", "\nE ", idadeSemana, " semanas")
+	    
+	}
+}
