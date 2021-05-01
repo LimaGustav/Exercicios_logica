@@ -9,19 +9,19 @@ programa {
 	        escreva ("Nadador muito novo, ainda não possui categoria.")
 	    }
 	    
-	    senao se (idade >= 5 && idade <= 7) {
+	    senao se (idade >= 5 e idade <= 7) {
 	        escreva ("Nadador pertence a categoria Infantil A.")
 	    }
 	    
-	    senao se (idade >= 8 && idade <= 10) {
+	    senao se (idade >= 8 e idade <= 10) {
 	        escreva ("Nadador pertence a categoria Infantil B.")
 	    }
 	    
-	    senao se (idade >= 11 && idade <= 13) {
+	    senao se (idade >= 11 e idade <= 13) {
 	        escreva ("Nadador pertence a categoria Juvenil A.")
 	    }
 	    
-	    senao se (idade >= 14 && idade <= 17) {
+	    senao se (idade >= 14 e idade <= 17) {
 	        escreva ("Nadador pertence a categoria Juvenil B.")
 	    }
 	    
