@@ -1,11 +1,15 @@
 ﻿using System;
 
+// Classafica, baseado na idade do nadador, a categoria que ele pertence
+
 namespace ex04
 {
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
+            // Pega a idade do nadador e salva em uma variavel "idade"
+            
             Console.Write("Qual a idade do nadador? ");
             int idade = Convert.ToInt32(Console.ReadLine());
 
