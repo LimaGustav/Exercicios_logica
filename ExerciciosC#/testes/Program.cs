@@ -7,7 +7,11 @@ namespace testes
         static void Main(string[] args)
         {
             Console.Write("Insira seu nome: ");
+            
+            // Le oque o usuario escreve 
             string nome = Console.ReadLine();
+
+            // Transforma em minusculo
             nome = nome.ToLower();
 
             string letra = nome.Substring(0, 1);

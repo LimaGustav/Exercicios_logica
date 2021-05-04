@@ -1,0 +1,16 @@
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\ex05\bin\Debug\net5.0\ex05.exe
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\ex05\bin\Debug\net5.0\ex05.deps.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\ex05\bin\Debug\net5.0\ex05.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\ex05\bin\Debug\net5.0\ex05.runtimeconfig.dev.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\ex05\bin\Debug\net5.0\ex05.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\ex05\bin\Debug\net5.0\ref\ex05.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\ex05\bin\Debug\net5.0\ex05.pdb
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\ex05\obj\Debug\net5.0\ex05.csprojAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\ex05\obj\Debug\net5.0\ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\ex05\obj\Debug\net5.0\ex05.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\ex05\obj\Debug\net5.0\ex05.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\ex05\obj\Debug\net5.0\ex05.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\ex05\obj\Debug\net5.0\ex05.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\ex05\obj\Debug\net5.0\ref\ex05.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\ex05\obj\Debug\net5.0\ex05.pdb
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\ex05\obj\Debug\net5.0\ex05.genruntimeconfig.cache
