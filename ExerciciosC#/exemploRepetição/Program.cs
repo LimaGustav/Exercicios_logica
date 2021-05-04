@@ -42,3 +42,47 @@ namespace exemploRepetição
         }
     }
 }
+
+//DO WHILE
+
+/* using System;
+
+namespace exemploRepetição
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string resposta = "";
+            do {
+                Console.Write("Digite uma idade: ");
+                int idade = int.Parse(Console.ReadLine());
+
+                if (idade > 18) {
+                    Console.WriteLine("Categoria suspensa");
+                }
+                else if (idade >= 5 && idade <= 7)
+                {
+                    Console.WriteLine("Nadador pertence a categoria Infantil A.");
+                }
+                else if (idade >= 8 && idade <= 10)
+                {
+                    Console.WriteLine("Nadador pertence a categoria Infantil B.");
+                }
+                else if (idade >= 11 && idade <= 13)
+                {
+                    Console.WriteLine("Nadador pertence a categoria Juvenil A.");
+                }
+                else if (idade >= 14 && idade <= 17)
+                {
+                    Console.WriteLine("Nadador pertence a categoria Juvenil B.");
+                }
+
+                Console.Write("Deseja consultar outra idade (S/N) ");
+                resposta = Console.ReadLine().ToLower();
+
+            }while (resposta == "s");
+        }
+    }
+}
+*/ 
