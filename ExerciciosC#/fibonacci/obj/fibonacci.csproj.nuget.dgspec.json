@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\fibonacci\\fibonacci.csproj": {}
+    "C:\\Users\\jhoww\\OneDrive\\Área de Trabalho\\Exercicios_logica\\ExerciciosC#\\fibonacci\\fibonacci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\fibonacci\\fibonacci.csproj": {
+    "C:\\Users\\jhoww\\OneDrive\\Área de Trabalho\\Exercicios_logica\\ExerciciosC#\\fibonacci\\fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\fibonacci\\fibonacci.csproj",
+        "projectUniqueName": "C:\\Users\\jhoww\\OneDrive\\Área de Trabalho\\Exercicios_logica\\ExerciciosC#\\fibonacci\\fibonacci.csproj",
         "projectName": "fibonacci",
-        "projectPath": "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\fibonacci\\fibonacci.csproj",
-        "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\fibonacci\\obj\\",
+        "projectPath": "C:\\Users\\jhoww\\OneDrive\\Área de Trabalho\\Exercicios_logica\\ExerciciosC#\\fibonacci\\fibonacci.csproj",
+        "packagesPath": "C:\\Users\\jhoww\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhoww\\OneDrive\\Área de Trabalho\\Exercicios_logica\\ExerciciosC#\\fibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jhonatan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jhoww\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
