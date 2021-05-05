@@ -1,0 +1,16 @@
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\validador\bin\Debug\net5.0\validador.exe
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\validador\bin\Debug\net5.0\validador.deps.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\validador\bin\Debug\net5.0\validador.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\validador\bin\Debug\net5.0\validador.runtimeconfig.dev.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\validador\bin\Debug\net5.0\validador.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\validador\bin\Debug\net5.0\ref\validador.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\validador\bin\Debug\net5.0\validador.pdb
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\validador\obj\Debug\net5.0\validador.csprojAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\validador\obj\Debug\net5.0\validador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\validador\obj\Debug\net5.0\validador.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\validador\obj\Debug\net5.0\validador.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\validador\obj\Debug\net5.0\validador.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\validador\obj\Debug\net5.0\validador.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\validador\obj\Debug\net5.0\ref\validador.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\validador\obj\Debug\net5.0\validador.pdb
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\validador\obj\Debug\net5.0\validador.genruntimeconfig.cache

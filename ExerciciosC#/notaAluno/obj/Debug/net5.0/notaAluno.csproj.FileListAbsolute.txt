@@ -1,0 +1,16 @@
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\notaAluno\bin\Debug\net5.0\notaAluno.exe
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\notaAluno\bin\Debug\net5.0\notaAluno.deps.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\notaAluno\bin\Debug\net5.0\notaAluno.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\notaAluno\bin\Debug\net5.0\notaAluno.runtimeconfig.dev.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\notaAluno\bin\Debug\net5.0\notaAluno.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\notaAluno\bin\Debug\net5.0\ref\notaAluno.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\notaAluno\bin\Debug\net5.0\notaAluno.pdb
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\notaAluno\obj\Debug\net5.0\notaAluno.csprojAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\notaAluno\obj\Debug\net5.0\notaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\notaAluno\obj\Debug\net5.0\notaAluno.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\notaAluno\obj\Debug\net5.0\notaAluno.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\notaAluno\obj\Debug\net5.0\notaAluno.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\notaAluno\obj\Debug\net5.0\notaAluno.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\notaAluno\obj\Debug\net5.0\ref\notaAluno.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\notaAluno\obj\Debug\net5.0\notaAluno.pdb
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\notaAluno\obj\Debug\net5.0\notaAluno.genruntimeconfig.cache
