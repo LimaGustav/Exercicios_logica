@@ -1,0 +1,73 @@
+programa {
+	funcao inicio() {
+		cadeia nome = "";
+            faca
+            {
+                escreva ("Digite um nome: ");
+                leia (nome)
+                se (nome == "") {
+                    escreva ("Idade invalida\nTente novamente");
+    
+                }
+
+            } while (nome == "");
+
+            inteiro idade;
+            faca
+            {
+                Console.Write("Digite uma idade: ");
+                leia (idadeString)
+                se (idadeString == "") {
+                    idadeString = "-1";
+                }
+                se (idade > 150 || idade < 0) {
+                    escreva("Idade invalida\nTente novamente");
+                }
+
+            } while (idade > 150 || idade < 0);
+
+            real salario;
+            faca
+            {
+                Console.Write("Digite uma salario: R$");
+                leia (salario)
+
+            } enquanto (salario < 0);
+
+            cadeia estadoCivilValido = "";
+            cadeia estadoCivil;
+            faca
+            {
+                escreva ("Digite um estado civil ('s'Solteiro(a)) ('c'Casado(a)) ('v'Viuvo(a)) ('d'Divorciado(a)) ");
+                leia (estadoCivilValido)
+
+                escolha (estadoCivilValido) {
+                    caso "s":
+                        estadoCivil = "Solteiro";
+                        break;
+                    caso "c":
+                        estadoCivil = "Casado";
+                        break;
+                    caso "v":
+                        estadoCivil = "Viuvo";
+                        break;
+                    caso "d":
+                        estadoCivil = "Divorciado";
+                        break;
+                    default: 
+                        estadoCivil = "";
+                        break;
+                }
+
+                se (estadoCivilValido == "s" || estadoCivilValido == "c" || estadoCivilValido == "v" || estadoCivilValido == "d") {
+                    estadoCivilValido = "s";
+                } senao {
+                    estadoCivilValido = "amendoim";
+                }
+            } enquanto (estadoCivilValido != "s");
+            escreva ("Dados validados");
+            escreva ($"Nome: {nome}\nIdade: {idade}\nSalario: R${salario}\nEstado Civil: {estadoCivil}");
+		    
+		}
+	}
+}

@@ -1,0 +1,19 @@
+programa {
+    inclua biblioteca Texto --> txt
+	funcao inicio() {
+	    cadeia usuario = ""
+	    cadeia senha = ""
+	    
+	    faca {
+	        escreva ("Digite um nome de usuario: ")
+	        leia(usuario)
+	        
+	        escreva ("Digite uma senha: ")
+	        leia(senha)
+	        
+	        se (usuario == senha) {
+	            escreva("O nome de usuario deve ser diferente da senha!!\n")
+	        }
+	    }enquanto (usuario == senha)
+	}
+}

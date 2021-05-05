@@ -1,0 +1,13 @@
+programa {
+	funcao inicio() {
+		inteiro nota
+		faca {
+		    escreva ("Digite uma nota entre 0 e 10: ")
+		    leia (nota)
+		    
+		    se (nota > 10) {
+		        escreva ("Nota invalida\nTente novamente\n")
+		    }
+		} enquanto (nota > 10)
+	}
+}

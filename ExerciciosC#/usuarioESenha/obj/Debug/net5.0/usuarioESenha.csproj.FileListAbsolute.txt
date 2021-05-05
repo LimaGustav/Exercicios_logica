@@ -14,3 +14,19 @@ C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\usuarioESenha\obj\Deb
 C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\usuarioESenha\obj\Debug\net5.0\ref\usuarioESenha.dll
 C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\usuarioESenha\obj\Debug\net5.0\usuarioESenha.pdb
 C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\usuarioESenha\obj\Debug\net5.0\usuarioESenha.genruntimeconfig.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\usuarioESenha\bin\Debug\net5.0\usuarioESenha.exe
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\usuarioESenha\bin\Debug\net5.0\usuarioESenha.deps.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\usuarioESenha\bin\Debug\net5.0\usuarioESenha.runtimeconfig.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\usuarioESenha\bin\Debug\net5.0\usuarioESenha.runtimeconfig.dev.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\usuarioESenha\bin\Debug\net5.0\usuarioESenha.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\usuarioESenha\bin\Debug\net5.0\ref\usuarioESenha.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\usuarioESenha\bin\Debug\net5.0\usuarioESenha.pdb
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\usuarioESenha\obj\Debug\net5.0\usuarioESenha.csprojAssemblyReference.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\usuarioESenha\obj\Debug\net5.0\usuarioESenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\usuarioESenha\obj\Debug\net5.0\usuarioESenha.AssemblyInfoInputs.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\usuarioESenha\obj\Debug\net5.0\usuarioESenha.AssemblyInfo.cs
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\usuarioESenha\obj\Debug\net5.0\usuarioESenha.csproj.CoreCompileInputs.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\usuarioESenha\obj\Debug\net5.0\usuarioESenha.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\usuarioESenha\obj\Debug\net5.0\ref\usuarioESenha.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\usuarioESenha\obj\Debug\net5.0\usuarioESenha.pdb
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\usuarioESenha\obj\Debug\net5.0\usuarioESenha.genruntimeconfig.cache

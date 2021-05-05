@@ -12,7 +12,7 @@ namespace notaAluno
                 Console.Write("Digita uma note entre 0 e 10: ");
                 nota = int.Parse(Console.ReadLine());
                 if (nota > 10) {
-                    Console.WriteLine("Nota invalida");
+                    Console.WriteLine("Nota invalida\nTente novamente");
                 }
             } while (nota > 10);
         }
