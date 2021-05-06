@@ -1,0 +1,16 @@
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\desafioProdutos\bin\Debug\net5.0\desafioProdutos.exe
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\desafioProdutos\bin\Debug\net5.0\desafioProdutos.deps.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\desafioProdutos\bin\Debug\net5.0\desafioProdutos.runtimeconfig.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\desafioProdutos\bin\Debug\net5.0\desafioProdutos.runtimeconfig.dev.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\desafioProdutos\bin\Debug\net5.0\desafioProdutos.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\desafioProdutos\bin\Debug\net5.0\ref\desafioProdutos.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\desafioProdutos\bin\Debug\net5.0\desafioProdutos.pdb
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\desafioProdutos\obj\Debug\net5.0\desafioProdutos.csprojAssemblyReference.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\desafioProdutos\obj\Debug\net5.0\desafioProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\desafioProdutos\obj\Debug\net5.0\desafioProdutos.AssemblyInfoInputs.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\desafioProdutos\obj\Debug\net5.0\desafioProdutos.AssemblyInfo.cs
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\desafioProdutos\obj\Debug\net5.0\desafioProdutos.csproj.CoreCompileInputs.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\desafioProdutos\obj\Debug\net5.0\desafioProdutos.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\desafioProdutos\obj\Debug\net5.0\ref\desafioProdutos.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\desafioProdutos\obj\Debug\net5.0\desafioProdutos.pdb
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\desafioProdutos\obj\Debug\net5.0\desafioProdutos.genruntimeconfig.cache

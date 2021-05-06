@@ -9,6 +9,8 @@ namespace validador
 
             string separador = new String('=', 20);
 
+            // Validador do nome
+
             string nome = "";
             do
             {
@@ -18,11 +20,13 @@ namespace validador
                 nome = Console.ReadLine().Trim().ToUpper();
                 if (nome == "") {
                     Console.WriteLine(separador);
-                    Console.WriteLine("Idade invalida\nTente novamente");
+                    Console.WriteLine("Nome invalido\nTente novamente");
     
                 }
 
             } while (nome == "");
+
+            // Validador da idade
 
             int idade;
             do
@@ -42,6 +46,8 @@ namespace validador
 
             } while (idade > 150 || idade < 0);
 
+            // Validador do salario
+
             double salario;
             do
             {
@@ -51,6 +57,8 @@ namespace validador
                 salario = Convert.ToInt32(Console.ReadLine());
 
             } while (salario < 0);
+
+            // Validador do estado civil
 
             string estadoCivilValido = "";
             string estadoCivil;
