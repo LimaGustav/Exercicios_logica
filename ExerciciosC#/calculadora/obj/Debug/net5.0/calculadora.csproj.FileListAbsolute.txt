@@ -1,0 +1,16 @@
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\calculadora\obj\Debug\net5.0\calculadora.csprojAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\calculadora\obj\Debug\net5.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\calculadora\obj\Debug\net5.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\calculadora\bin\Debug\net5.0\calculadora.exe
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\calculadora\bin\Debug\net5.0\calculadora.deps.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.dev.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\calculadora\bin\Debug\net5.0\calculadora.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\calculadora\bin\Debug\net5.0\ref\calculadora.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\calculadora\bin\Debug\net5.0\calculadora.pdb
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\calculadora\obj\Debug\net5.0\calculadora.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\calculadora\obj\Debug\net5.0\ref\calculadora.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\calculadora\obj\Debug\net5.0\calculadora.pdb
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\calculadora\obj\Debug\net5.0\calculadora.genruntimeconfig.cache
