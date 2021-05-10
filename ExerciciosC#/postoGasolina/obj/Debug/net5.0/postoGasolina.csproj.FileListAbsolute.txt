@@ -1,0 +1,16 @@
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\postoGasolina\bin\Debug\net5.0\postoGasolina.exe
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\postoGasolina\bin\Debug\net5.0\postoGasolina.deps.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\postoGasolina\bin\Debug\net5.0\postoGasolina.runtimeconfig.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\postoGasolina\bin\Debug\net5.0\postoGasolina.runtimeconfig.dev.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\postoGasolina\bin\Debug\net5.0\postoGasolina.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\postoGasolina\bin\Debug\net5.0\ref\postoGasolina.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\postoGasolina\bin\Debug\net5.0\postoGasolina.pdb
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\postoGasolina\obj\Debug\net5.0\postoGasolina.csprojAssemblyReference.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\postoGasolina\obj\Debug\net5.0\postoGasolina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\postoGasolina\obj\Debug\net5.0\postoGasolina.AssemblyInfoInputs.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\postoGasolina\obj\Debug\net5.0\postoGasolina.AssemblyInfo.cs
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\postoGasolina\obj\Debug\net5.0\postoGasolina.csproj.CoreCompileInputs.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\postoGasolina\obj\Debug\net5.0\postoGasolina.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\postoGasolina\obj\Debug\net5.0\ref\postoGasolina.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\postoGasolina\obj\Debug\net5.0\postoGasolina.pdb
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\postoGasolina\obj\Debug\net5.0\postoGasolina.genruntimeconfig.cache

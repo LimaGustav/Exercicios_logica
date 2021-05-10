@@ -1,0 +1,16 @@
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\nomesNoVetor\bin\Debug\net5.0\nomesNoVetor.exe
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\nomesNoVetor\bin\Debug\net5.0\nomesNoVetor.deps.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\nomesNoVetor\bin\Debug\net5.0\nomesNoVetor.runtimeconfig.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\nomesNoVetor\bin\Debug\net5.0\nomesNoVetor.runtimeconfig.dev.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\nomesNoVetor\bin\Debug\net5.0\nomesNoVetor.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\nomesNoVetor\bin\Debug\net5.0\ref\nomesNoVetor.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\nomesNoVetor\bin\Debug\net5.0\nomesNoVetor.pdb
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\nomesNoVetor\obj\Debug\net5.0\nomesNoVetor.csprojAssemblyReference.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\nomesNoVetor\obj\Debug\net5.0\nomesNoVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\nomesNoVetor\obj\Debug\net5.0\nomesNoVetor.AssemblyInfoInputs.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\nomesNoVetor\obj\Debug\net5.0\nomesNoVetor.AssemblyInfo.cs
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\nomesNoVetor\obj\Debug\net5.0\nomesNoVetor.csproj.CoreCompileInputs.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\nomesNoVetor\obj\Debug\net5.0\nomesNoVetor.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\nomesNoVetor\obj\Debug\net5.0\ref\nomesNoVetor.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\nomesNoVetor\obj\Debug\net5.0\nomesNoVetor.pdb
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\nomesNoVetor\obj\Debug\net5.0\nomesNoVetor.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\produtoDesconto\bin\Debug\net5.0\produtoDesconto.exe
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\produtoDesconto\bin\Debug\net5.0\produtoDesconto.deps.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\produtoDesconto\bin\Debug\net5.0\produtoDesconto.runtimeconfig.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\produtoDesconto\bin\Debug\net5.0\produtoDesconto.runtimeconfig.dev.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\produtoDesconto\bin\Debug\net5.0\produtoDesconto.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\produtoDesconto\bin\Debug\net5.0\ref\produtoDesconto.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\produtoDesconto\bin\Debug\net5.0\produtoDesconto.pdb
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\produtoDesconto\obj\Debug\net5.0\produtoDesconto.csprojAssemblyReference.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\produtoDesconto\obj\Debug\net5.0\produtoDesconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\produtoDesconto\obj\Debug\net5.0\produtoDesconto.AssemblyInfoInputs.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\produtoDesconto\obj\Debug\net5.0\produtoDesconto.AssemblyInfo.cs
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\produtoDesconto\obj\Debug\net5.0\produtoDesconto.csproj.CoreCompileInputs.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\produtoDesconto\obj\Debug\net5.0\produtoDesconto.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\produtoDesconto\obj\Debug\net5.0\ref\produtoDesconto.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\produtoDesconto\obj\Debug\net5.0\produtoDesconto.pdb
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\produtoDesconto\obj\Debug\net5.0\produtoDesconto.genruntimeconfig.cache
