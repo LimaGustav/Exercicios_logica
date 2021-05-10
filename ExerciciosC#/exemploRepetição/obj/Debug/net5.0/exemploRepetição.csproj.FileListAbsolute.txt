@@ -14,3 +14,19 @@ C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\exemploRepetição\ob
 C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\exemploRepetição\obj\Debug\net5.0\ref\exemploRepetição.dll
 C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\exemploRepetição\obj\Debug\net5.0\exemploRepetição.pdb
 C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\exemploRepetição\obj\Debug\net5.0\exemploRepetição.genruntimeconfig.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\exemploRepetição\obj\Debug\net5.0\exemploRepetição.csprojAssemblyReference.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\exemploRepetição\obj\Debug\net5.0\exemploRepetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\exemploRepetição\obj\Debug\net5.0\exemploRepetição.AssemblyInfoInputs.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\exemploRepetição\obj\Debug\net5.0\exemploRepetição.AssemblyInfo.cs
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\exemploRepetição\obj\Debug\net5.0\exemploRepetição.csproj.CoreCompileInputs.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\exemploRepetição\obj\Debug\net5.0\exemploRepetição.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\exemploRepetição\obj\Debug\net5.0\ref\exemploRepetição.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\exemploRepetição\obj\Debug\net5.0\exemploRepetição.pdb
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\exemploRepetição\bin\Debug\net5.0\exemploRepetição.exe
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\exemploRepetição\bin\Debug\net5.0\exemploRepetição.deps.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\exemploRepetição\bin\Debug\net5.0\exemploRepetição.runtimeconfig.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\exemploRepetição\bin\Debug\net5.0\exemploRepetição.runtimeconfig.dev.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\exemploRepetição\bin\Debug\net5.0\exemploRepetição.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\exemploRepetição\bin\Debug\net5.0\ref\exemploRepetição.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\exemploRepetição\bin\Debug\net5.0\exemploRepetição.pdb
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\exemploRepetição\obj\Debug\net5.0\exemploRepetição.genruntimeconfig.cache

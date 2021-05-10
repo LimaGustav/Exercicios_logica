@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Jhonatan\\.nuget\\packages\\": {}
+    "C:\\Users\\jhoww\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\exemploRepetição\\exemploRepetição.csproj",
+      "projectUniqueName": "C:\\Users\\jhoww\\OneDrive\\Área de Trabalho\\Exercicios_logica\\ExerciciosC#\\exemploRepetição\\exemploRepetição.csproj",
       "projectName": "exemploRepetição",
-      "projectPath": "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\exemploRepetição\\exemploRepetição.csproj",
-      "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\exemploRepetição\\obj\\",
+      "projectPath": "C:\\Users\\jhoww\\OneDrive\\Área de Trabalho\\Exercicios_logica\\ExerciciosC#\\exemploRepetição\\exemploRepetição.csproj",
+      "packagesPath": "C:\\Users\\jhoww\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jhoww\\OneDrive\\Área de Trabalho\\Exercicios_logica\\ExerciciosC#\\exemploRepetição\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jhonatan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jhoww\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
