@@ -1,0 +1,16 @@
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\maiorValor\bin\Debug\net5.0\maiorValor.exe
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\maiorValor\bin\Debug\net5.0\maiorValor.deps.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\maiorValor\bin\Debug\net5.0\maiorValor.runtimeconfig.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\maiorValor\bin\Debug\net5.0\maiorValor.runtimeconfig.dev.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\maiorValor\bin\Debug\net5.0\maiorValor.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\maiorValor\bin\Debug\net5.0\ref\maiorValor.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\maiorValor\bin\Debug\net5.0\maiorValor.pdb
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\maiorValor\obj\Debug\net5.0\maiorValor.csprojAssemblyReference.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\maiorValor\obj\Debug\net5.0\maiorValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\maiorValor\obj\Debug\net5.0\maiorValor.AssemblyInfoInputs.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\maiorValor\obj\Debug\net5.0\maiorValor.AssemblyInfo.cs
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\maiorValor\obj\Debug\net5.0\maiorValor.csproj.CoreCompileInputs.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\maiorValor\obj\Debug\net5.0\maiorValor.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\maiorValor\obj\Debug\net5.0\ref\maiorValor.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\maiorValor\obj\Debug\net5.0\maiorValor.pdb
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\maiorValor\obj\Debug\net5.0\maiorValor.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\ordemInversa\bin\Debug\net5.0\ordemInversa.exe
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\ordemInversa\bin\Debug\net5.0\ordemInversa.deps.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\ordemInversa\bin\Debug\net5.0\ordemInversa.runtimeconfig.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\ordemInversa\bin\Debug\net5.0\ordemInversa.runtimeconfig.dev.json
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\ordemInversa\bin\Debug\net5.0\ordemInversa.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\ordemInversa\bin\Debug\net5.0\ref\ordemInversa.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\ordemInversa\bin\Debug\net5.0\ordemInversa.pdb
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\ordemInversa\obj\Debug\net5.0\ordemInversa.csprojAssemblyReference.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\ordemInversa\obj\Debug\net5.0\ordemInversa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\ordemInversa\obj\Debug\net5.0\ordemInversa.AssemblyInfoInputs.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\ordemInversa\obj\Debug\net5.0\ordemInversa.AssemblyInfo.cs
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\ordemInversa\obj\Debug\net5.0\ordemInversa.csproj.CoreCompileInputs.cache
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\ordemInversa\obj\Debug\net5.0\ordemInversa.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\ordemInversa\obj\Debug\net5.0\ref\ordemInversa.dll
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\ordemInversa\obj\Debug\net5.0\ordemInversa.pdb
+C:\Users\jhoww\OneDrive\Área de Trabalho\Exercicios_logica\ExerciciosC#\ordemInversa\obj\Debug\net5.0\ordemInversa.genruntimeconfig.cache
