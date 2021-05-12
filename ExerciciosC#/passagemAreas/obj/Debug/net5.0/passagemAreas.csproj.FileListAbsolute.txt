@@ -1,0 +1,16 @@
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\passagemAreas\bin\Debug\net5.0\passagemAreas.exe
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\passagemAreas\bin\Debug\net5.0\passagemAreas.deps.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\passagemAreas\bin\Debug\net5.0\passagemAreas.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\passagemAreas\bin\Debug\net5.0\passagemAreas.runtimeconfig.dev.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\passagemAreas\bin\Debug\net5.0\passagemAreas.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\passagemAreas\bin\Debug\net5.0\ref\passagemAreas.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\passagemAreas\bin\Debug\net5.0\passagemAreas.pdb
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\passagemAreas\obj\Debug\net5.0\passagemAreas.csprojAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\passagemAreas\obj\Debug\net5.0\passagemAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\passagemAreas\obj\Debug\net5.0\passagemAreas.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\passagemAreas\obj\Debug\net5.0\passagemAreas.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\passagemAreas\obj\Debug\net5.0\passagemAreas.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\passagemAreas\obj\Debug\net5.0\passagemAreas.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\passagemAreas\obj\Debug\net5.0\ref\passagemAreas.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\passagemAreas\obj\Debug\net5.0\passagemAreas.pdb
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\passagemAreas\obj\Debug\net5.0\passagemAreas.genruntimeconfig.cache
