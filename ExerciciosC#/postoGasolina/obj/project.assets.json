@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jhoww\\.nuget\\packages\\": {}
+    "C:\\Users\\Jhonatan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhoww\\OneDrive\\Área de Trabalho\\Exercicios_logica\\ExerciciosC#\\postoGasolina\\postoGasolina.csproj",
+      "projectUniqueName": "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\postoGasolina\\postoGasolina.csproj",
       "projectName": "postoGasolina",
-      "projectPath": "C:\\Users\\jhoww\\OneDrive\\Área de Trabalho\\Exercicios_logica\\ExerciciosC#\\postoGasolina\\postoGasolina.csproj",
-      "packagesPath": "C:\\Users\\jhoww\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhoww\\OneDrive\\Área de Trabalho\\Exercicios_logica\\ExerciciosC#\\postoGasolina\\obj\\",
+      "projectPath": "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\postoGasolina\\postoGasolina.csproj",
+      "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\postoGasolina\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jhoww\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Jhonatan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

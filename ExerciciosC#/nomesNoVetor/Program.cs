@@ -7,8 +7,8 @@ namespace nomesNoVetor
         static void Main(string[] args)
         {
             string[] nomes = new string[10];
-
-            for (int i = 0; i < 10; i++) {
+            Console.WriteLine($"Digite o nome de {nomes.Length} pessoas");
+            for (int i = 0; i < nomes.Length; i++) {
                 Console.Write($"Digite o {i+1}º nome: ");
                 nomes[i] = Console.ReadLine().ToUpper().Trim();
             }
