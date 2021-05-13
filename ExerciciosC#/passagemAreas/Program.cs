@@ -34,64 +34,67 @@ namespace passagemAreas
                 }
 
                 bool opcaoInvalida = true;
-                while (opcaoInvalida)
+                while (opcaoInvalida) // Equando a opção invalida for true o while vai rodar
                 {
 
-                    Console.Write("\nCadastrar pasagem [1]\nListar Passagens [2]\nSair [0]\n-> ");
-                    string opcaoMenu = Console.ReadLine();
+                    Console.Write("\nCadastrar passagem [1]\nListar passagens [2]\nSair [0]\n-> "); // Opções do menu
+                    string opcaoMenu = Console.ReadLine(); // Armezana as opções do menu na variavel opcaoMenu
 
-                    if (c == tamanhoArray) {
-                        Console.WriteLine("Limite de passagens já excedeu");
+                    if (c == tamanhoArray) // Se o contador de passageiros for igual o tamanho do array ele exibe a mensagem
+                    {
+                        Console.WriteLine("Limite de passagens já excedeu"); // mensagem a ser exibida.
                     }
 
-                    switch (opcaoMenu)
+                    switch (opcaoMenu) 
                     {
+                        // Casos que podem ser escolhidos na opcaoMenu
                         case "1":
-                            opcaoInvalida = false; 
+                            opcaoInvalida = false; // Sai do while que pergunta a opçao do menu
                             break;
                         case "2":
-                            opcaoInvalida = false;
+                            opcaoInvalida = false; // Sai do while que pergunta a opçao do menu
                             break;
                         case "0":
-                            opcaoInvalida = false;
-                            sair = 0;
+                            opcaoInvalida = false; // Sai do while que pergunta a opçao do menu
+                            sair = 0; // Sai do programa
                             break;
                         default:
-                            Console.WriteLine("\nOpção invalida. Tente novamente");
-                            opcaoInvalida = true;
+                            Console.WriteLine("\nOpção invalida. Tente novamente"); // Caso não for escolhida nenhuma das opções acima
+                            opcaoInvalida = true; // Continua no loop de escolher a opção
                             break;
                     }
                     if (opcaoMenu == "1" && c < tamanhoArray) // Se o usuario escolheu cadastrar passagem
                     {
                         string outroPassageiro = "s";
-                        while (outroPassageiro == "s")
+                        while (outroPassageiro == "s") // Enquanto ele quiser cadastrar o outro passageiro ele vai ficar no loop
                         {
                             bool sairMenu = true;
                             Console.Write("Qual o nome do passageiro? ");
-                            nomes[c] = Console.ReadLine().ToUpper();
+                            nomes[c] = Console.ReadLine().ToUpper(); // Armazena o nome do passageiro dentro do array nomes na posição [c] 
 
-                            Console.Write("Qual o local de origem? ");
-                            origens[c] = Console.ReadLine().ToUpper();
+                            Console.Write("Qual o local de origem? "); 
+                            origens[c] = Console.ReadLine().ToUpper(); // Armazena o local de origem dentro do array origens na posição [c]
 
                             Console.Write("Qual o local de destino? ");
-                            destinos[c] = Console.ReadLine().ToUpper();
+                            destinos[c] = Console.ReadLine().ToUpper(); // Armazena o local de destino dentro do array destinos na posição [c]
 
-                            Console.Write("Qual a data do voo? ");
-                            datasVoos[c] = Console.ReadLine();
+                            Console.Write("Qual a data do voo? "); 
+                            datasVoos[c] = Console.ReadLine(); // Armazena a data do voo dentro do array datasVoos na posição [c]
 
-                            c++;
-                            if (c >= 1 && c < tamanhoArray) {
-                                Console.WriteLine($"\nVocê pode cadastrar apenas {tamanhoArray} passagens.");
-                                Console.WriteLine($"\nJá foram cadastradas {c} passagens\n");
+                            c++; // Contador que começa no 0 e vai somando 1 a cada vez q o loop rodar.
+
+                            if (c >= 1 && c < tamanhoArray) { // c é o contador declarado acima
+                                Console.WriteLine($"\nVocê pode cadastrar apenas {tamanhoArray} passagens."); // Você só pode cadastrar passagens até lotar os espaços do array
+                                Console.WriteLine($"\nJá foram cadastradas {c} passagens\n"); // Exibe quantos passageiros foram cadastrados baseado no contador c
                             }
                             else if (c == tamanhoArray) {
-                                Console.WriteLine("Você atingiu o número maximo de passagens cadastradas");
-                                outroPassageiro = "n";
-                                sairMenu = false;
+                                Console.WriteLine("Você atingiu o número maximo de passagens cadastradas"); // Se o contador atingir o numero de espaços no array
+                                outroPassageiro = "n"; // Sai no loop de cadastrar passageiro
+                                sairMenu = false; // Poem o sair menu para false para não aparecer a opção de cadastrar um outro passageiro
                             }
                             
 
-                            while (sairMenu)
+                            while (sairMenu) // Equanto sairMenu for true o loop continua rodando
                             {
                                 Console.Write("Deseja cadastrar outro passageiro? (N/S) ");
                                 outroPassageiro = Console.ReadLine().ToLower().Substring(0,1);
@@ -99,7 +102,7 @@ namespace passagemAreas
                                     sairMenu = false;
                                 }
                                 else if (outroPassageiro == "s") {
-                                    sairMenu = false;
+                                    sairMenu = true;
                                 }
                             }
                         }
