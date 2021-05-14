@@ -16,22 +16,23 @@ namespace passagemAreas
             string[] datasVoos = new string[tamanhoArray];
             int c = 0;
 
+            string senhaMenu;
+                    
+            while (senhaIncorreta)
+            {
+                Console.Write("Insira a senha de acesso: ");
+                senhaMenu = Console.ReadLine().Trim(); // Salva a senha digita na variavel senhaMenu
+
+                if (senhaMenu == "123456") // Se a senha armazenada em senhaMenu for igual "123456"
+                {
+                    senhaIncorreta = false; // Senha Incorreta recebe false para sair do loop
+                } else {
+                    Console.WriteLine("Senha incorreta. Tente novamente"); // Aparece a mensagem e continua no loop
+                }
+            }
+
             while (sair != 0) // Enquanto sair for diferente de zero o programa continua
             {
-                string senhaMenu;
-                    
-                while (senhaIncorreta)
-                {
-                    Console.Write("Insira a senha de acesso: ");
-                    senhaMenu = Console.ReadLine().Trim(); // Salva a senha digita na variavel senhaMenu
-
-                    if (senhaMenu == "123456") // Se a senha armazenada em senhaMenu for igual "123456"
-                    {
-                        senhaIncorreta = false; // Senha Incorreta recebe false para sair do loop
-                    } else {
-                        Console.WriteLine("Senha incorreta. Tente novamente"); // Aparece a mensagem e continua no loop
-                    }
-                }
 
                 bool opcaoInvalida = true;
                 while (opcaoInvalida) // Equando a opção invalida for true o while vai rodar
@@ -40,7 +41,7 @@ namespace passagemAreas
                     Console.Write("\nCadastrar passagem [1]\nListar passagens [2]\nSair [0]\n-> "); // Opções do menu
                     string opcaoMenu = Console.ReadLine(); // Armezana as opções do menu na variavel opcaoMenu
 
-                    if (c == tamanhoArray) // Se o contador de passageiros for igual o tamanho do array ele exibe a mensagem
+                    if (c == tamanhoArray && opcaoMenu == "1") // Se o contador de passageiros for igual o tamanho do array e o usuriao escolher cadastrar uma nova passagem ele exibe a mensagem
                     {
                         Console.WriteLine("Limite de passagens já excedeu"); // mensagem a ser exibida.
                     }
@@ -57,6 +58,7 @@ namespace passagemAreas
                         case "0":
                             opcaoInvalida = false; // Sai do while que pergunta a opçao do menu
                             sair = 0; // Sai do programa
+                            Console.WriteLine("Obrigado por utilizar nosso sistema."); // Mensagem de quando o usuario sair
                             break;
                         default:
                             Console.WriteLine("\nOpção invalida. Tente novamente"); // Caso não for escolhida nenhuma das opções acima
@@ -102,15 +104,17 @@ namespace passagemAreas
                                     sairMenu = false;
                                 }
                                 else if (outroPassageiro == "s") {
-                                    sairMenu = true;
+                                    sairMenu = false;
                                 }
+                                // Se o usuario digitar qualquer outra coisa alem de s ou n o programa continua no loop
                             }
                         }
                         
                     }
                     else if (opcaoMenu == "2") // Se o usuario escolher listar passagens
                     {
-                        for (var i = 0; i < c ; i++)
+                        Console.WriteLine("\nLista de passagens\n");
+                        for (var i = 0; i < c ; i++) // Lista as passagens com seus atributos
                         {
                             Console.WriteLine($"{i+1}º - {nomes[i]} | {origens[i]} - {destinos[i]} | {datasVoos[i]}");
                         }

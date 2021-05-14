@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\passagemAreas\\passagemAreas.csproj": {}
+    "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\tryNum\\tryNum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\passagemAreas\\passagemAreas.csproj": {
+    "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\tryNum\\tryNum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\passagemAreas\\passagemAreas.csproj",
-        "projectName": "passagemAreas",
-        "projectPath": "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\passagemAreas\\passagemAreas.csproj",
+        "projectUniqueName": "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\tryNum\\tryNum.csproj",
+        "projectName": "tryNum",
+        "projectPath": "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\tryNum\\tryNum.csproj",
         "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\passagemAreas\\obj\\",
+        "outputPath": "C:\\Users\\Jhonatan\\Desktop\\Back-End\\Exercicios\\ExerciciosC#\\tryNum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhonatan\\AppData\\Roaming\\NuGet\\NuGet.Config"

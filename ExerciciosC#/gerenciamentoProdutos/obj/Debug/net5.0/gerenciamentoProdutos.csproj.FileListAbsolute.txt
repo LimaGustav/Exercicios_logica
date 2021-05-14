@@ -1,0 +1,16 @@
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\gerenciamentoProdutos\bin\Debug\net5.0\gerenciamentoProdutos.exe
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\gerenciamentoProdutos\bin\Debug\net5.0\gerenciamentoProdutos.deps.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\gerenciamentoProdutos\bin\Debug\net5.0\gerenciamentoProdutos.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\gerenciamentoProdutos\bin\Debug\net5.0\gerenciamentoProdutos.runtimeconfig.dev.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\gerenciamentoProdutos\bin\Debug\net5.0\gerenciamentoProdutos.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\gerenciamentoProdutos\bin\Debug\net5.0\ref\gerenciamentoProdutos.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\gerenciamentoProdutos\bin\Debug\net5.0\gerenciamentoProdutos.pdb
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\gerenciamentoProdutos\obj\Debug\net5.0\gerenciamentoProdutos.csprojAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\gerenciamentoProdutos\obj\Debug\net5.0\gerenciamentoProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\gerenciamentoProdutos\obj\Debug\net5.0\gerenciamentoProdutos.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\gerenciamentoProdutos\obj\Debug\net5.0\gerenciamentoProdutos.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\gerenciamentoProdutos\obj\Debug\net5.0\gerenciamentoProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\gerenciamentoProdutos\obj\Debug\net5.0\gerenciamentoProdutos.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\gerenciamentoProdutos\obj\Debug\net5.0\ref\gerenciamentoProdutos.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\gerenciamentoProdutos\obj\Debug\net5.0\gerenciamentoProdutos.pdb
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\gerenciamentoProdutos\obj\Debug\net5.0\gerenciamentoProdutos.genruntimeconfig.cache

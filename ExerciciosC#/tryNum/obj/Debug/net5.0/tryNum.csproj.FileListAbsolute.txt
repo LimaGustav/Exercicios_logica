@@ -1,0 +1,16 @@
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\tryNum\bin\Debug\net5.0\tryNum.exe
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\tryNum\bin\Debug\net5.0\tryNum.deps.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\tryNum\bin\Debug\net5.0\tryNum.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\tryNum\bin\Debug\net5.0\tryNum.runtimeconfig.dev.json
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\tryNum\bin\Debug\net5.0\tryNum.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\tryNum\bin\Debug\net5.0\ref\tryNum.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\tryNum\bin\Debug\net5.0\tryNum.pdb
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\tryNum\obj\Debug\net5.0\tryNum.csprojAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\tryNum\obj\Debug\net5.0\tryNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\tryNum\obj\Debug\net5.0\tryNum.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\tryNum\obj\Debug\net5.0\tryNum.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\tryNum\obj\Debug\net5.0\tryNum.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\tryNum\obj\Debug\net5.0\tryNum.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\tryNum\obj\Debug\net5.0\ref\tryNum.dll
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\tryNum\obj\Debug\net5.0\tryNum.pdb
+C:\Users\Jhonatan\Desktop\Back-End\Exercicios\ExerciciosC#\tryNum\obj\Debug\net5.0\tryNum.genruntimeconfig.cache
