@@ -4,10 +4,14 @@ namespace gerenciamentoProdutos
 {
     class Program
     {   
-        static int tamanhoArray = 3;
+        static int tamanhoArray = 1;
+        static int tamanhoCopia = tamanhoArray;
         static string[] nomesProdutos = new string[tamanhoArray];
+        static string[] nomesProdutosCopia = new string[tamanhoCopia];
         static float[] valorProdutos = new float[tamanhoArray];
+        static float[] valorProdutosCopia = new float[tamanhoCopia];
         static bool[] promocoes = new bool[tamanhoArray];
+        static bool[] promocoesCopia = new bool[tamanhoCopia];
         static int c = 0;
         static void Main(string[] args)
         {   
@@ -17,16 +21,16 @@ namespace gerenciamentoProdutos
                 opcaoMenu = MostrarMenu(); // Mostra o menu
                 if (opcaoMenu == "1")
                 {
-                    if (c < tamanhoArray)
-                    {
+                    if (c < tamanhoArray) {
                         CadastrarProduto(); // Caso tiver espaços nos arrays para cadastrar produtos ele cadastra
                     } else {
-                        Console.WriteLine("\nNúmero maximo de produtos cadastrados excedido\n"); // se não tiver espaço nos arrays ele mostra a mensagem
+                        AumentarProdutos();
                     }
+                    
                 }
                 else if (opcaoMenu == "2") {
                     ListarProdutos(); // Lista os produtos se a opção escolhida for 2
-                } 
+                }
             }
         }
 
@@ -196,12 +200,47 @@ namespace gerenciamentoProdutos
                     Console.WriteLine($@"                       
                                     {i+1}º {nomesProdutos[i]} - R${valorProdutos[i]} - {promocoesMensagem.ToUpper()}");
                 }
-                foreach (var item in valorProdutos)
-                {
-                    Console.WriteLine(item);
-                }
+                // foreach (var item in valorProdutos)
+                // {
+                //     Console.WriteLine(item);
+                // DEBUG }
             }
             
+        }
+
+
+        static void AumentarProdutos() {
+
+            bool isInt = false;
+            int produtosAMaisInt = 0;
+            while (!isInt)
+            {
+                Console.Write("Quantos produtos a mais você deseja cadastrar? ");
+                string produtosAMaisString = Console.ReadLine();
+                isInt = int.TryParse(produtosAMaisString, out produtosAMaisInt);
+                if (isInt) {
+                    produtosAMaisInt = int.Parse(produtosAMaisString);
+                } else {
+                    Console.WriteLine("Digite apenas números");
+                }
+
+            }
+            tamanhoCopia = tamanhoArray + produtosAMaisInt;
+            nomesProdutosCopia = new string [tamanhoCopia];
+            Array.Copy(nomesProdutos, nomesProdutosCopia, tamanhoArray);
+            valorProdutosCopia = new float[tamanhoCopia];
+            Array.Copy(valorProdutos, valorProdutosCopia, tamanhoArray);
+            promocoesCopia = new bool[tamanhoCopia];
+            Array.Copy(promocoes, promocoesCopia, tamanhoArray);
+            
+            tamanhoArray = tamanhoCopia;
+            nomesProdutos = new string[tamanhoArray];
+            valorProdutos = new float[tamanhoArray];
+            promocoes = new bool[tamanhoArray];
+
+            Array.Copy(nomesProdutosCopia, nomesProdutos, tamanhoArray);
+            Array.Copy(valorProdutosCopia, valorProdutos, tamanhoArray);
+            Array.Copy(promocoesCopia, promocoes, tamanhoArray);
         }
     }
 }
