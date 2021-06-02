@@ -46,14 +46,6 @@ namespace gerenciamentoProdutos
 
 
 
-
-
-
-
-
-
-
-
         static string MostrarMenu() 
         {
             bool opcaoMenuInvalida = true;
